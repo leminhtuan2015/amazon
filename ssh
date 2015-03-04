@@ -1,0 +1,3 @@
+ssh -i leminhtuan.pem ubuntu@54.201.62.139
+
+nohup puma >script.out 2>&1 &
